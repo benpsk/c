@@ -1,0 +1,5 @@
+# Ignore all files without an extension (likely binaries)
+*
+!*.c
+!*.txt
+!.gitignore
